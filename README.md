@@ -4,7 +4,7 @@ Repositorio Actividad 3 Entornos de Desarollo
 # Sistema de Gestión de Torneos de eSports
 
 ## Autor
-Adolfo Martínez Fernández
+Adolfo Martínez Fernández  
 AdolMF
 
 ## Descripción del Proyecto
