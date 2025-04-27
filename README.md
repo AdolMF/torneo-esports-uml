@@ -1,5 +1,5 @@
 # torneo-esports-uml
-Repositorio Actividad 3 Entornos de Desarollo
+Repositorio Actividad 3 - Entornos de Desarrollo
 
 # Sistema de Gestión de Torneos de eSports
 
